@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding-top: 10px;
+    word-spacing: 10px;
+    letter-spacing: 15px;
+  }
+
+.btns {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 800px;
+    border-color: #ff3300;
+    border-radius: 5px;
+}
+
+.btns button {
+    padding: 10px;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #030303;
+    color: white;
+}
+
+.dltAll {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.dltAll button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff3300;
+    color: white;
+}
+  
+.edittodo {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #030303;
+    color: white;
+}
+
+.deletetodo {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff3300;
+    color: white;
+}
